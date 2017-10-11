@@ -10,7 +10,7 @@
 name=Ungenerate
 qgisMinimumVersion=2.0
 description=make ArcInfo File
-version=0.1
+version=0.2
 author=Peter Dudley
 email=phdphd@gmail.com
 
