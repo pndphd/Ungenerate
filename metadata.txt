@@ -9,6 +9,7 @@
 [general]
 name=Ungenerate
 qgisMinimumVersion=2.0
+qgisMaximumVersion=2.18
 description=This plugin replicates ArcMaps "Ungenerate" command (http://desktop.arcgis.com/en/arcmap/10.3/tools/coverage-toolbox/ungenerate.htm).  It takes a shapefile input file and produces a text file with the x,y coordinates of each polygon.  The x,y coordinates are preceded by a ID number for each polygon and followed by the word "end" before the next polygon's coordinates are printed.  The file ends with another "end" statement.
 version=0.2
 author=Peter Dudley
